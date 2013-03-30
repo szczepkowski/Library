@@ -1,7 +1,7 @@
 Library
 ============
 
-Maven+Swing+Hibernate+JPA+MySQL
+Swing, Hibernate/JPA, Maven, MySQL
 
 Projekt symuluje działanie bibioteki. Posiada 2 cześci : Użytkownika [user] i Admina[admin]. 
 
