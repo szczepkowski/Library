@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 sem3-library
 ============
 
@@ -26,3 +27,9 @@ Wygrałem kilka Lendów[wypożyczeń]  z pliku za pomocą App.java .. stworzyłe
 Jest to mój pierwszy projekt który coś robi więc przydałaby mi się konstruktywna krytyka odnośnie tego co robię dobrze a co źle .. co można zrobić inaczej .. mniej interesują mnie zmiany w Swingu bo następny projekt to sklep w Spring MVC + Hibernate [ Sem 4 na PWR ] a byłbym wdzięczny każdemu kto mi doradzi jak efektywniej konstruować odwzorowania do bazy, jak budować całą sieć relacyjną bazy danych oraz jak sensownie tworzyć pliki DAO .. coś w stylu znanych przez Was wzorców projektowych ETC .. 
 
 Dziękuję za uwagę i proszę o konstruktywny komentarz.
+=======
+Library
+=======
+
+Swing, Hibernate/JPA, Maven, MySQL
+>>>>>>> a18d33cb91cb255c37c5190e4645a648ab7d8b78
