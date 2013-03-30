@@ -1,5 +1,4 @@
-
-target 
+hibernate.cfg.xml
 .project
 .classpath
 *.class
