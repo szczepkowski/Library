@@ -1,0 +1,8 @@
+Title 				category 	author 		date
+W pustyni i w puszczy|School book|Henryk Sienkiewicz|01|01|1912
+Hrabia Monte Christo|Novel|Aleksander Dumas|01|01|1844
+Władca Pierścieni I - Drużyna pierścienia|Fantasy|J.R.R.Tolkien|01|01|1954
+Władca Pierścieni II - Dwie wieże|Fantasy|J.R.R.Tolkien|01|01|1954
+Władca Pierścieni III - Powrót króla|Fantasy|J.R.R.Tolkien|01|01|1954
+Finding Neverland|Fantasy|P.Dumas|01|01|1855
+Ostatnie Życzenie|Fantasy|Andrzej Sapkowski|01|01|1993
