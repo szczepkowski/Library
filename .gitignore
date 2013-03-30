@@ -1,10 +1,7 @@
-target
-<<<<<<< HEAD
-=======
 
->>>>>>> 3edef3de719bc383e7560e41c670546681010387
-*.project
-*.classpath
+target 
+.project
+.classpath
 *.class
 
 # Package Files #
